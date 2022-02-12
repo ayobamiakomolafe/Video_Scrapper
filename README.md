@@ -1,2 +1,2 @@
 # Video_Scrapper
-Scrapes video from websites
+Scrapes video from websites using wvideo codes
